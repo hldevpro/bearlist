@@ -1,4 +1,4 @@
-package ru.bearlist.todoappback.entity;
+package ru.bearlist.bearlistback.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
